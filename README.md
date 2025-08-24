@@ -70,23 +70,15 @@ Ridge-Regression-From-Scratch/
 
 ---
 
-## ✨ Example Plot
-*(Replace with your own screenshot from the notebook)*
-
-![True vs Predicted Scatter](assets/example_plot.png)
-
----
 
 ## 📖 References
 - Columbia University, *Machine Learning* (Course materials).
-- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732) by C. Bishop.
-- O'Reilly: *Machine Learning and AI for Coders* by Laurence Moroney.
 
 ---
 
 ## 👤 Author
-- **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Yusuf Solomon**  
+- GitHub: [@Badaszz](https://github.com/Badaszz)  
+- LinkedIn: [Yusuf Solomon](https://linkedin.com/in/yusuf-solomon)
 
 ---
